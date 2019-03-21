@@ -1,3 +1,4 @@
+
 1. (.//*[@class='projects-item__title i-link-deco'])[1] - Облако
 2. .//*[@id='ph_my']- Мой Мир
 3. .//*[@class='x-ph__menu__button__text'] - Все проекты
@@ -12,3 +13,4 @@
 12. .//*[@class='o-media__body news-item__body i-fade-white i-fade-offset'] - Реклама внизу
 13. .//*[@class='well notify i-link-no-deco i-absolute m-bordered m-animated-shadow m-animated-borderless notify_y-sm notify_out']- Агент
 14. .//*[@class="rate__icon rate__icon_usd o-media__img"] - Курс валют
+
